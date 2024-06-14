@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HR Process Automation ",
+    "imageSrc": "projects/project.png",
+    "description": "HR Process Automation streamlines and automates HR tasks, including employee onboarding, leave requests, and tallying leave credits.",
+    "skills": ["Tall Stack"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Pucake Bakery Website",
+    "imageSrc": "projects/project2.png",
+    "description": "Created during my first year and worked with 4 students. This project helped me learn basic web development skills. ",
+    "skills": ["HTML + CSS + JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Match-Up Game",
+    "imageSrc": "projects/project3.png",
+    "description": "Created during my 2nd year. It is a match-up mini game project inspired by the kpop group new jeans.",
+    "skills": ["HTML + CSS + JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

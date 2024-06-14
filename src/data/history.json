@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Internal Relations Volunteer",
+    "organisation": "Google Developer Student Club",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Track Partnerships within different organizations inside the university."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Project Manager",
+    "organisation": "Software Engineering Project",
+    "startDate": "Oct, 2023",
+    "endDate": "June, 2024",
+    "experiences": ["Lead a team of 4 students in planning,executing, and completing a HR Automation Process."],
+    "imageSrc": "history/software.png"
+  },
+  {
+    "role": "Youth Council Member (SK Kagawad) ",
+    "organisation": "Brgy 841",
+    "startDate": "Dec, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Organized events and advocated for youth interests."],
+    "imageSrc": "history/sk.png"
+  }
+]
