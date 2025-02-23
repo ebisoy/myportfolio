@@ -4,7 +4,7 @@ import { getImageUrl } from "../../utils";
 import erikaImage from "../../../assets/about/erika1.png";
 import cursorIcon from "../../../assets/about/cursorIcon.png";
 import serverIcon from "../../../assets/about/serverIcon.png";
-import uilcon from "../../../assets/about/uilcon.png"; 
+import uiIcon from "../../../assets/about/uiIcon.png"; 
 
 
 export const About = () => {
@@ -37,7 +37,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={uilcon} alt="UI icon" />
+            <img src={uiIcon} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>SK Kagawad (Youth Council Member) </h3>
               <p>
